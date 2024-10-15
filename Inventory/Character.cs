@@ -12,3 +12,10 @@
 // }
 // --------------------------------------
 
+public class Character()
+{
+    int hp;
+    string name;
+    
+}
+
